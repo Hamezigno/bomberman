@@ -1,0 +1,30 @@
+﻿La génération a démarré 21/02/2014 15:32:21.
+     1>Projet "C:\Users\Raphaël\Documents\Cours\ENSAE\S1\C ++\Bomberman3\Bomberman3\Bomberman3.vcxproj" sur le nœud 2 (build cible(s)).
+     1>InitializeBuildStatus:
+         Mise à jour de l'horodatage "Debug\Bomberman3.unsuccessfulbuild".
+       ClCompile:
+         Toutes les sorties sont à jour.
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Raphaël\Documents\Cours\ENSAE\S1\C ++\Bomberman3\Debug\Bomberman3.exe" /NOLOGO SDL.lib SDLmain.lib SDL_image.lib SDL_ttf.lib SDL_mixer.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Bomberman3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Raphaël\Documents\Cours\ENSAE\S1\C ++\Bomberman3\Debug\Bomberman3.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Raphaël\Documents\Cours\ENSAE\S1\C ++\Bomberman3\Debug\Bomberman3.lib" /MACHINE:X86 Debug\Bombe.obj
+         Debug\Bomber.obj
+         Debug\Bonus.obj
+         Debug\Case.obj
+         Debug\constante.obj
+         Debug\Graphics.obj
+         Debug\Jeu.obj
+         Debug\main.obj
+         Debug\Menu.obj
+         Debug\Terrain.obj
+         Debug\Timer.obj
+         Debug\v_Bombe.obj
+         Bomberman3.vcxproj -> C:\Users\Raphaël\Documents\Cours\ENSAE\S1\C ++\Bomberman3\Debug\Bomberman3.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\Raphaël\Documents\Cours\ENSAE\S1\C ++\Bomberman3\Debug\Bomberman3.exe;#1" /manifest Debug\Bomberman3.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         Suppression du fichier "Debug\Bomberman3.unsuccessfulbuild".
+         Mise à jour de l'horodatage "Debug\Bomberman3.lastbuildstate".
+     1>Génération du projet "C:\Users\Raphaël\Documents\Cours\ENSAE\S1\C ++\Bomberman3\Bomberman3\Bomberman3.vcxproj" terminée (build cible(s)).
+
+La génération a réussi.
+
+Temps écoulé 00:00:00.42
